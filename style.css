@@ -84,11 +84,10 @@ ul li a:hover {
     position: absolute;
     height: 200%;
     left: 40%;
-    transform: translate(32%);
+    transform: translate(-1%);
     bottom: 0;
     transition: 2s ease;
 }
 .image:hover .wife{
     left: 55%;
 }
-.icon
